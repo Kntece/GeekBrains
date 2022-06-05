@@ -1,0 +1,15 @@
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\bin\Debug\net6.0\Практические задания C#.exe
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\bin\Debug\net6.0\Практические задания C#.deps.json
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\bin\Debug\net6.0\Практические задания C#.runtimeconfig.json
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\bin\Debug\net6.0\Практические задания C#.dll
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\bin\Debug\net6.0\Практические задания C#.pdb
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.csproj.AssemblyReference.cache
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.AssemblyInfoInputs.cache
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.AssemblyInfo.cs
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.csproj.CoreCompileInputs.cache
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.dll
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\refint\Практические задания C#.dll
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.pdb
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\Практические задания C#.genruntimeconfig.cache
+C:\Users\kntec\OneDrive\Рабочий стол\GeekBrains\Практические задания C#\obj\Debug\net6.0\ref\Практические задания C#.dll
