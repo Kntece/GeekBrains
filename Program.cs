@@ -65,4 +65,3 @@ while (i <= n)
         Console.Write(i + " ");
         i++;
     } */
-
